@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--文字水平偏移量-->
+    <attr name="fanTextHorizontalOffset" format="dimension" />
+    <!--文字大小-->
+    <attr name="fanTextSize" format="dimension" />
+    <!--半径偏移量-->
+    <attr name="radiusOffset" format="dimension" />
+    <!--半径幂指数-->
+    <attr name="radiusExponent" format="integer" />
+    <declare-styleable name="FanBladeView">
+        <attr name="fanTextHorizontalOffset" />
+        <attr name="fanTextSize" />
+        <attr name="radiusOffset" />
+        <attr name="radiusExponent" />
+    </declare-styleable>
+</resources>
