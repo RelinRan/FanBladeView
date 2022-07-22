@@ -19,7 +19,7 @@ repositories {
 2./app/build.grade
 ```
 dependencies {
-	implementation 'com.github.RelinRan:PieChartView:2022.7.22.1'
+	implementation 'com.github.RelinRan:FanBladeView:2022.7.22.1'
 }
 ```
 # xml
